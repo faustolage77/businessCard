@@ -1,6 +1,6 @@
 {
   "name": "faustolage",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "description": "Notas sobre meu progresso de mudanca de carreira. Advogado - Programador - Lawyer - Programmer",
   "bin": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   "author": "Fausto",
   "license": "ISC",
   "dependencies": {
-    "faustolage": "^2.0.3"
+    "faustolage": "^2.1.0"
   }
 }
