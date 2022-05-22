@@ -1,0 +1,22 @@
+{
+  "name": "faustolage",
+  "version": "2.0.3",
+  "description": "Notas sobre meu progresso de mudanca de carreira. Advogado - Programador - Lawyer - Programmer",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.commain"
+  },
+  "keywords": [
+    "business",
+    "card"
+  ],
+  "author": "Fausto",
+  "license": "ISC",
+  "dependencies": {
+    "faustolage": "^2.0.3"
+  }
+}
